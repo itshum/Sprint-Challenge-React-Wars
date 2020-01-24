@@ -2,17 +2,16 @@ import React from "react";
 import styled from "styled-components";
 
 const Card = styled.div`
-    width: 30%;
+    width: 40%;
     background: white;
     opacity: 0.9;
     color: grey;
     border-radius: 10% 0 15% 0;
-    margin: 1rem 3rem;
-    box-shadow: 1rem 0.5rem 0.5rem #5f6f77;
+    margin: 1.5rem 2rem;
 `;
 
 const CardTitle = styled.h3`
-    margin-top: 0.2rem;
+    margin-top: 0.3rem;
     padding: 0.5rem 0;
     font-size: 1.5rem;
     color: blue;
@@ -20,7 +19,7 @@ const CardTitle = styled.h3`
 `;
 
 const CartP = styled.p`
-    color: #121b26;
+    color: black;
     font-size: 1.2rem;
 `;
 
