@@ -6,7 +6,7 @@ const Card = styled.div`
     background: white;
     opacity: 0.9;
     color: grey;
-    border-radius: 10% 0 15% 0;
+    border-radius: 0% 0 0% 0;
     margin: 1.5rem 2rem;
 `;
 
